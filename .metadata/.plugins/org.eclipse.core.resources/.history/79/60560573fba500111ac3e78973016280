@@ -1,0 +1,12 @@
+package aula03;
+
+public class Comparacoes {
+	
+	public static void main(String[] args) {
+		//tipo nome = valor;
+		int numero = 123;
+		
+		System.out.println(numero);
+	}
+
+}

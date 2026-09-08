@@ -1,0 +1,13 @@
+package aula03;
+
+public class Eleicao {
+	
+	public static void main(String[] args) {
+		
+		int idade = 78;
+		boolean votoFacultativo = (idade >= 16) && (idade < 18) ;
+		
+		System.out.println("Voto facultativo? "+votoFacultativo);
+	}
+
+}

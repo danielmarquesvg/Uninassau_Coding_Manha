@@ -1,0 +1,14 @@
+package aula04_Repeticao;
+
+public class MinhaRepeticao {
+	
+	public static void main(String[] args) {
+		
+		//for(inicio ; condicao ; iteracao){ i++ = i + 1
+		for(int i = 40; i >= 30; i--) {
+			//bloco de código
+			System.out.println("O valor de i = "+i);
+		}
+	}
+
+}

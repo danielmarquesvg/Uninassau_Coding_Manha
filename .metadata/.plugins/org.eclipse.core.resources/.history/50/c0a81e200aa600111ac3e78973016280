@@ -1,0 +1,11 @@
+package aula03;
+
+public class PositivoNegativoNeutro {
+	
+	public static void main(String[] args) {
+		
+		int numero = 4;
+		
+	}
+
+}

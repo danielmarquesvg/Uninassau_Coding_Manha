@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Daniel\Workspace\Github\Uninassau_Coding_Manha\.metadata\.plugins\org.eclipse.jdt.core
+2567809625.index
+2578560182.index
+3321390241.index
+1865797976.index

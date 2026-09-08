@@ -1,0 +1,11 @@
+package aula03;
+
+public class Eleicao {
+	
+	public static void main(String[] args) {
+		
+		int idade = 19;
+		boolean votoFacultativo = idade >= 16 && 
+	}
+
+}

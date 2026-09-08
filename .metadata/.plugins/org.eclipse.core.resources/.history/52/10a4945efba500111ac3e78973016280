@@ -1,0 +1,10 @@
+package aula03;
+
+public class Comparacoes {
+	
+	public static void main(String[] args) {
+		//tipo nome = valor;
+		int numero = 9;
+	}
+
+}

@@ -1,0 +1,13 @@
+package aula04_Repeticao;
+
+public class MinhaRepeticao {
+	
+	public static void main(String[] args) {
+		
+		//for(inicio ; condicao ; iteracao){
+		for(int i = 0; i <= 100; i++) {
+			
+		}
+	}
+
+}
