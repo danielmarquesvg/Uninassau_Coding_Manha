@@ -8,3 +8,21 @@
 {"logTime": "0901/115456", "session": "END"}
 {"logTime": "0901/125754", "session": "START"}
 {"logTime": "0901/134142", "session": "END"}
+{"logTime": "0908/133840", "session": "START"}
+{"logTime": "0908/133840", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0908/135919", "session": "END"}
+{"logTime": "0915/112826", "session": "START"}
+{"logTime": "0915/112826", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0915/114210", "session": "END"}
+{"logTime": "0915/115306", "session": "START"}
+{"logTime": "0915/115306", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0915/115344", "session": "END"}
+{"logTime": "0915/120618", "session": "START"}
+{"logTime": "0915/120618", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0915/121027", "session": "END"}
+{"logTime": "0915/121120", "session": "START"}
+{"logTime": "0915/121120", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0915/121223", "session": "END"}
+{"logTime": "0915/121236", "session": "START"}
+{"logTime": "0915/121236", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0915/121456", "session": "END"}

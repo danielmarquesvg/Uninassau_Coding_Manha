@@ -1,9 +1,0 @@
-package aula03;
-
-public class EleicaoIfElse {
-	
-	public static void main(String[] args) {
-		
-	}
-
-}

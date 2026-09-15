@@ -18,9 +18,16 @@ public class SomaCumulativaDeNumeros {
 		int soma = 0;
 		System.out.print("Soma inicial = "+soma+"\n");
 		
-		for(int i = valorInicial; i <= valorFinal; i++) {
-			soma = soma + i;
-			System.out.println("Soma parcial = "+soma);
+		if(valorInicial < valorFinal) {
+			for(int i = valorInicial; i <= valorFinal; i++) {
+				soma = soma + i;
+				System.out.println("Soma parcial = "+soma);
+			}
+		} else {
+			for(int i = valorInicial; i >= valorFinal; i--) {
+				soma = soma + i;
+				System.out.println("Soma parcial = "+soma);
+			}
 		}
 		
 		//saida - exibicao do resultado
