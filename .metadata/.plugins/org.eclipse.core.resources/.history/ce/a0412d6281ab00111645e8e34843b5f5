@@ -1,9 +1,0 @@
-package aula04_Repeticao;
-
-public class MinhaRepeticao {
-	
-	public static void main(String[] args) {
-		
-	}
-
-}
