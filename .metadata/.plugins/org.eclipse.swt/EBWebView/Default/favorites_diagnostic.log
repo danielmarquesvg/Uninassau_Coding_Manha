@@ -395,3 +395,23 @@
 2026-11-24 11:32:20.196: [INFO] BookmarkModelLoaded, ids_reassigned: 0
 2026-11-24 11:32:20.196: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-11-24 11:32:20.196: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-24 12:31:58.247: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-24 12:41:13.263: [INFO] CurrentProfilePath: C:\Daniel\Workspace\Github\Uninassau_Coding_Manha\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-24 12:41:13.263: [INFO] Profiles total count: 1
+2026-11-24 12:41:13.263: [INFO] Profile: name=Perfil 1 path=C:\Daniel\Workspace\Github\Uninassau_Coding_Manha\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-05T13:06:28.719Z
+2026-11-24 12:41:13.263: [INFO] LastUsedProfileDir: C:\Daniel\Workspace\Github\Uninassau_Coding_Manha\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-24 12:41:13.263: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Daniel\Workspace\Github\Uninassau_Coding_Manha\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-05T13:06:28.719Z
+2026-11-24 12:41:13.263: [INFO] OnDoneLoading sync enabled: 0
+2026-11-24 12:41:13.263: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-24 12:41:13.263: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-24 12:41:13.263: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-24 12:46:05.478: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-24 12:49:43.584: [INFO] CurrentProfilePath: C:\Daniel\Workspace\Github\Uninassau_Coding_Manha\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-24 12:49:43.585: [INFO] Profiles total count: 1
+2026-11-24 12:49:43.585: [INFO] Profile: name=Perfil 1 path=C:\Daniel\Workspace\Github\Uninassau_Coding_Manha\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-05T13:06:28.719Z
+2026-11-24 12:49:43.585: [INFO] LastUsedProfileDir: C:\Daniel\Workspace\Github\Uninassau_Coding_Manha\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-24 12:49:43.585: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Daniel\Workspace\Github\Uninassau_Coding_Manha\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-05T13:06:28.719Z
+2026-11-24 12:49:43.585: [INFO] OnDoneLoading sync enabled: 0
+2026-11-24 12:49:43.585: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-24 12:49:43.585: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-24 12:49:43.585: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
